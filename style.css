@@ -1,0 +1,10 @@
+*{
+    color: bisque;
+    background-color: brown;
+    font-family: sans-serif;
+}
+
+p{
+    text-indent: 5em;
+    font-size: 30px;
+}
